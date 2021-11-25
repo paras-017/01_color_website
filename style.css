@@ -45,7 +45,7 @@
   list-style: none;
 }
 .navbar__item {
-  height: auto;
+  height: 80px;
 }
 .navbar__links {
   color: #fff;
