@@ -43,7 +43,7 @@ const highlightMenu = () => {
 window.addEventListener('scroll', highlightMenu);
 window.addEventListener('click', highlightMenu);
 
-//  Close mobile Menu when clicking on a menu item
+//  Closing of  mobile Menu when clicking on a menu item  
 const hideMobileMenu = () => {
   const menuBars = document.querySelector('.is-active');
   if (window.innerWidth <= 899 && menuBars) {
